@@ -1,2 +1,0 @@
-include paddlespeech/t2s/exps/*.txt
-include paddlespeech/t2s/frontend/*.yaml

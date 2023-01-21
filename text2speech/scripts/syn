@@ -1,2 +1,0 @@
-#!/bin/bash
-find ./wandb/latest-run -type f -name *.wandb -exec wandb sync {} \;

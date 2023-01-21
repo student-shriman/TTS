@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=2 taskset -c 0-31 sh configs/train_fastpitch.sh
