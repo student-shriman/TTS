@@ -1,3 +1,15 @@
+ProDiff - https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for
+StyleTTS - https://paperswithcode.com/paper/styletts-a-style-based-generative-model-for
+Paddlespeech  -  https://paperswithcode.com/paper/paddlespeech-an-easy-to-use-all-in-one-speech-1
+FastDiff - https://paperswithcode.com/paper/fastdiff-a-fast-conditional-diffusion-model
+Coqoui-TTS  -  https://paperswithcode.com/paper/yourtts-towards-zero-shot-multi-speaker-tts
+Wavegrad - https://paperswithcode.com/paper/wavegrad-estimating-gradients-for-waveform
+FastSpeech - https://paperswithcode.com/paper/fastspeech-2-fast-and-high-quality-end-to-end
+GlowTTS -  https://paperswithcode.com/paper/glow-tts-a-generative-flow-for-text-to-speech
+flowtron - https://paperswithcode.com/paper/flowtron-an-autoregressive-flow-based
+Parallel WaveGAN - https://paperswithcode.com/paper/parallel-wavegan-a-fast-waveform-generation
+TacoTron - https://paperswithcode.com/paper/tacotron-towards-end-to-end-speech-synthesis
+
 1. https://paperswithcode.com/paper/parallel-wavegan-a-fast-waveform-generation#code
 2. https://github.com/coqui-ai/TTS/
 3. https://github.com/coqui-ai/TTS-papers
